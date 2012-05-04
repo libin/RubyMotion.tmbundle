@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>yvovacna@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Libin Pan</string>
+	<key>description</key>
+	<string>TextMate Bundle for RubyMotion.</string>
+	<key>isDisabled</key>
+	<false/>
+	<key>name</key>
+	<string>RubyMotion</string>
+	<key>uuid</key>
+	<string>20D53A20-AE14-4D82-9041-38D2B4680D69</string>
+</dict>
+</plist>
