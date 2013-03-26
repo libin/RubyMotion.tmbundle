@@ -4,7 +4,7 @@ require 'rexml/document'
 require 'pp'
 
 # RubyMotion Bridgesupport default path
-RubyMotionPath = "/Library/RubyMotion/data/5.1/BridgeSupport/"
+RubyMotionPath = "/Library/RubyMotion/data/6.1/BridgeSupport/"
 
 class RubyMotionCompletion
 
